@@ -38,6 +38,8 @@
 
 ## PROFILE
 
+Make your own ` USERNAME.github.io ` and link at Main tech-intern.github.io contact / contributor list.
+
 - CV
 	- Resume.io
 	- LaTeX
