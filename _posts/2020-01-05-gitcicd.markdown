@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Git Flow
-date:   2020-01-05 16:03:50 +0630
+date:   2020-01-05 10:03:50 +0630
 image:  github.png
 tags:   CICD
 ---

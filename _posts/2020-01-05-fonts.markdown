@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  We make Font and Keyboard - p1
+title:  We make Font and Keyboard 
 date:   2020-01-05 16:03:50 +0630
 image:  fonts.jpg
-tags:   fonts, keyboard
+tags:   fonts keyboard
 ---
 
 # We make font, glyph and keyboard
@@ -35,13 +35,17 @@ with our heart
 We make Commercial Font + Glyph.
 
 ### somebody have design, we make it font.
+> JOOX.ttf Joox Music Application
 ![]({{site.baseurl}}/img/joox.jpg)
 
 ### who have idea, also we can do it.
+> POM.ttf Pride of Myanmar Font
 ![]({{site.baseurl}}/img/pride.jpg)
+> POM.ttf Pride of Myanmar Font 
 ![]({{site.baseurl}}/img/pride2.jpg)
 
 ### you have other glyph design, we can expend it. 
+> MaxPlus2.ttf Max Plus Myanmar Font
 ![]({{site.baseurl}}/img/maxplus.jpg)
 
 see more ? include your style ? contact us.
