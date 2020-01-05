@@ -52,6 +52,7 @@ see more ? include your style ? contact us.
 
 ## Tech Intern Project
 
+![]({{site.baseurl}}/img/font-esplain.png)
 
 - Make glyph with Inkscape / Gimp
 
