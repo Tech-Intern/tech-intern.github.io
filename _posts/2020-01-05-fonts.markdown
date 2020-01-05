@@ -63,7 +63,14 @@ see more ? include your style ? contact us.
 
 
 ### Ref
+
 > [FontForge Guide](http://designwithfontforge.com/)
 > [FontForge Inkscape](https://www.youtube.com/watch?v=_bigi-Pa-l0)
 > [FontForge Tutorial - Youtube](https://www.youtube.com/watch?v=5O4bIAzbebI&list=PLmZFJYVPjqEllk8RN40AVgnVZ1LvGzsui)
 > [Tuts Plus - Font](https://design.tutsplus.com/tutorials/how-to-create-a-font-using-fontself-and-fontforge--cms-25923)
+
+- https://fontforge.org/
+
+- https://www.high-logic.com/font-editor/fontcreator
+
+- https://www.fontlab.com/
