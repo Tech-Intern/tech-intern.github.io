@@ -1,10 +1,10 @@
-----
+---
 layout: post
 title:  Git Flow
 date:   2020-01-05 16:03:50 +0630
 image:  04.jpg
 tags:   Art
-----
+---
 git initgit clonegit config
 This tutorial provides an overview of how to set up a repository (repo) under Git version control. This resource will walk you through initializing a Git repository for a new or existing project. Included below are workflow examples of repositories both created locally and cloned from remote repositories. This guide assumes a basic familiarity with a command-line interface.
 
