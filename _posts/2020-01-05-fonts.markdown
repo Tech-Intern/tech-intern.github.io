@@ -3,7 +3,7 @@ layout: post
 title:  We make Font and Keyboard - p1
 date:   2020-01-05 16:03:50 +0630
 image:  fonts.jpg
-tags:   fonts
+tags:   fonts, keyboard
 ---
 
 # We make font, glyph and keyboard
@@ -34,14 +34,14 @@ with our heart
 
 We make Commercial Font + Glyph.
 
-somebody have design, we make it font.
+### somebody have design, we make it font.
 ![]({{site.baseurl}}/img/joox.jpg)
 
-who have idea, also we can do it.
+### who have idea, also we can do it.
 ![]({{site.baseurl}}/img/pride.jpg)
 ![]({{site.baseurl}}/img/pride2.jpg)
 
-you have other glyph design, we can expend it. 
+### you have other glyph design, we can expend it. 
 ![]({{site.baseurl}}/img/maxplus.jpg)
 
 see more ? include your style ? contact us.
@@ -61,16 +61,20 @@ see more ? include your style ? contact us.
 
 - Export ps, ttf, otf, svg, woff, woff2, eot
 
+- CSS for Web Ready
 
 ### Ref
 
 > [FontForge Guide](http://designwithfontforge.com/)
+
 > [FontForge Inkscape](https://www.youtube.com/watch?v=_bigi-Pa-l0)
+
 > [FontForge Tutorial - Youtube](https://www.youtube.com/watch?v=5O4bIAzbebI&list=PLmZFJYVPjqEllk8RN40AVgnVZ1LvGzsui)
+
 > [Tuts Plus - Font](https://design.tutsplus.com/tutorials/how-to-create-a-font-using-fontself-and-fontforge--cms-25923)
 
-- https://fontforge.org/
+- [FontForge](https://fontforge.org/)
 
-- https://www.high-logic.com/font-editor/fontcreator
+- [Font Creator](https://www.high-logic.com/font-editor/fontcreator)
 
-- https://www.fontlab.com/
+- [FontLab](https://www.fontlab.com/)
