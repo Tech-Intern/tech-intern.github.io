@@ -110,8 +110,8 @@ $(function() {
     get: 'user',
     limit: 6,
     resolution: 'standard_resolution',
-    userId: '8987997106',
-    accessToken: '8987997106.924f677.8555ecbd52584f41b9b22ec1a16dafb9',
+    userId: '3707500290',
+    accessToken: '3707500290.1677ed0.8578e6293b9e4c54b327fc5cbec9e92a',
     template:
       '<li class="instagram-item"><a href="{{link}}" aria-label="{{caption}}" target="_blank"><img src="{{image}}" alt="{{caption}}"></a></li>'
   });
