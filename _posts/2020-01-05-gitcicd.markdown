@@ -1,7 +1,7 @@
 ----
 layout: post
 title:  Git Flow
-date:   2018-08-23 16:03:50 +0300
+date:   2020-01-05 16:03:50 +0630
 image:  04.jpg
 tags:   Art
 ----
