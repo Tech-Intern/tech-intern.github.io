@@ -18,7 +18,8 @@ Two Type of Permission
 
 **DAC  Permission**
 
-![enter image description here](https://drive.google.com/drive/u/0/my-drive)
+![Permission](/img/dac.png)
+
 
 read(r)=4
 write(w)=2
@@ -36,7 +37,8 @@ Three main component of file/floder
 
 #chmod (change mode)
 
-![enter image description here](https://drive.google.com/drive/u/0/my-drive)
+![Chmd Permission](/img/chmoddac.png)
+
 
 In this case,
 chmod  640 filename.txt
@@ -49,7 +51,7 @@ You want to add execute permission of all three component
 #chmod  a+x filename.txt
 #chmod 751 filename.txt
 
-![enter image description here](https://drive.google.com/drive/u/0/my-drive)
+![Adding Execute Permission](/img/addx.png)
 
 
 
