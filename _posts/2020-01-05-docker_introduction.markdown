@@ -169,7 +169,7 @@ Containerization is increasingly popular because containers are:
 -   Scalable: You can increase and automatically distribute container replicas across a datacenter.
 -   Secure: Containers apply aggressive constraints and isolations to processes without any configuration required on the part of the user.
 
-![]({{site.baseurl}}/img/containerandvm.jpg)
+![]({{site.baseurl}}/img/containerandvm.png)
 
 ### Images and containers
 
@@ -179,8 +179,6 @@ Containers and virtual machines
 A container runs natively on Linux and shares the kernel of the host machine with other containers. It runs a discrete process, taking no more memory than any other executable, making it lightweight.
 
 By contrast, a virtual machine (VM) runs a full-blown “guest” operating system with virtual access to host resources through a hypervisor. In general, VMs incur a lot of overhead beyond what is being consumed by your application logic.
-
-![]({{site.baseurl}}/img/containerandvm.jpg)
 
 
 ### Orchestration
