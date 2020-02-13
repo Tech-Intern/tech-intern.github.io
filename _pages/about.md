@@ -23,5 +23,5 @@ kokoye2007@ubuntu.com
 Kanaung Hub, Building 14, MICT park, Hlaing campus, Yangon, Myanmar.
 +959450022022
 
- <span text-align:center > We are Kouk Yoe Mee
+ <center> We are Short-Zealed <center/>
 
