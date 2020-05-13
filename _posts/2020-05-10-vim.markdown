@@ -1,0 +1,96 @@
+---
+layout: post
+title: Let's use vim
+date: 2020-05-10 10:00 +0630
+author: "Naing Naing Htun"
+header-style: text
+tags: [Guide, Vim]
+---
+
+Terminal တွေကနေ config တွေ text တွေပြင်ချင်ရင် သုံးပါတယ်။ Linux distribution တော်တော်များများမှာတော့ built-in ပါတတ်ပါတယ်။ Windows မှာသုံးချင်ရင်လည်း သီးသန့် download လုပ်ပြီးစမ်းသုံးနိုင်ပါတယ်။ အစပိုင်းမှာတော့သုံးရတာလက်ပေါက်ကပ်ပေမယ့် အသားကျသွားရင်တော့ တခြား text editor တွေနဲ့စာရင် workflow အများကြီးမြန်သွားနိုင်ပါတယ်။
+
+## Basic Movements
+
+တစ်ခြား editor တွေနဲ့မတူတာက vim မှာက mode တွေနဲ့အလုပ်လုပ်တာမလို့ နှိပ်လိုက်တဲ့ key press တိုင်းက လက်ရှိရောက်နေတဲ့ mode ပေါ်မူတည်ပြီးပြောင်းသွားနိုင်ပါတယ်။ mode တွေအကြောင်းနောက်ကြုံရင်ပြောပြပါမယ်။ 
+
+Cursor /motionအတွက် နောက်ပိုင်းမှာတော့ motion လို့ပဲသုံးပါမယ်။
+-	`h`	-	move left for one character
+-	`j`	-	move down for one character
+-	`k`	-	move up for one character
+-	`l`	-	move right for one character
+ 
+## Exit Vim
+
+ကိုယ်ရေးချင်တာတွေ ပြင်ချင်တာတွေ ပြီးပြီဆိုရင် တော့ထွက်ဖို့အတွက်ပါ။ ထွက်တာလေးများ ဆိုပြီး ပေါ့သေးသေးတော့ မထင်စေလို။
+ပထမဦးဆုံး Normal mode မှာရှိနေဖို့လိုပါတယ် Escape key က ဘယ် mode မှာပဲရောက်နေနေ Normal mode ပြန်ရောက်ဖို့သုံးပါတယ်။ Normal mode ရောက်ပြီဆိုရင် `:q!`နှိပ်ပြီးထွက်နိုင်ပါတယ် `:` က Command-Line mode ဖြစ်ပြီး `q` က quit `!` က discard changes ကိုယ်စားပြုပါတယ်။ `ZQ` shortcut လည်းသုံးနိုင်ပါတယ်။
+Save လုပ်ချင်ရင်တော့ `:wq` ပါ write and quit ပေါ့။ Shortcut ကတော့`ZZ` ပါ။
+
+## Edit texts
+
+Normal mode ကနေ Insert mode ထဲဝင်ပါမယ်။ `i` နဲ့ပါ။ အဲ့ဒါဆို cursor လက်ရှိရောက်နေတဲ့နေရာကနေ text edit လုပ်လို့ရပါပြီ။ Insert mode ထဲရောက်သွားပြီဆိုရင် အပေါ်မှာပြောထားတဲ့ motion key တွေက အလုပ်လုပ်တော့မှာမဟုတ်ပါဘူး။ ဆိုလိုတာက Insert mode ထဲမှာ cursor ရွှေ့ဖို့ `h j k l` motion key တွေက ရိုက်လိုက်တဲ့အတိုင်းဝင်သွားမှာဖြစ်ပါတယ်။
+
+## Modes
+
+-	Normal mode - vim ရဲ့ default state ပါ
+-	Insert mode - text edit လုပ်လို့ရပါတယ်
+-	Visual mode - text selection လုပ်လို့ရပါတယ် 
+-	Command-line mode - shell command, search pattern နဲ့ အပေါ်မှာပြောခဲ့တဲ့ file write/quite/edit တွေအတွက်သုံးပါတယ်
+
+အောက်ကဇယားကတော့ သက်ဆိုင်ရာ mode တွေဆီသွားဖို့အတွက် key တွေပါ။
+
+|Mode	|Trigger keys  |
+|--|--|
+|Normal mode|`Esc`  |
+|Insert mode|`i` `a` `o`|
+|Visual mode|`v` `V` `<Ctrl+v>`|
+|Command-line mode|`:` `/`|
+
+*Note	:	နောက်ပိုင်းမှာ `<Ctrl+v>` ကို ဥပမာ `<C-v>` အနေနဲ့ပဲ denote လုပ်သွားပါမယ်။*
+
+vim မှာ default state က Normal mode ဖြစ်နေခြင်းက vim ကိုစစသုံးသူတွေအတွက် ထူးခြားချက်တစ်လိုဖြစ်သွားစေတာပါ။ တစ်နည်းဆိုရင် တစ်ခြား text editors တွေရဲ့ default state က Insert mode ဖြစ်နေတာပေါ့။
+
+## Commands
+
+-	`u`	-	undo
+-	`U`	-	undo all changes
+-	`<C-R>`	-	redo
+-	`r`	-	replace
+-	**`c`	-	change**
+-	**`d`	-	delete**
+-	**`.`	-	repeat last change**
+
+`r` က replace လုပ်ချင်တဲ့ character တစ်လုံးချင်းဆီပေါ်မှာ cursor တင်ပြီးမှပြင်တာပါ။
+`.` `d` `c` command တွေကိုနောက် post မှာပြောပြပါမယ်။
+
+## Other useful commands
+
+### Motion
+
+-	`w`	-	forward to start of next word
+-	`b`	-	backward to start of current/previous word
+-	`e`	-	forward to end of current/next word
+-	`ge`	-	backward to end of previous word
+-	`^`	-	move to the start of line 
+-	`$`	-	move to the end of line
+-	`gg`	-	move to the start of file
+-	`G`	-	move to the end of file
+
+![](/img/vim-motion.jpg)
+
+Ref: Pratical Vim by Drew Neil
+
+### Text manipulation
+
+-	**`i`	-	insert before cursor**
+-	`a`	-	insert after cursor
+-	`I`	-	insert at the start of line
+-	**`A` 	-	insert at the end of line**
+-	**`o` 	-	insert new line below cursor**
+-	**`O`	-	insert new line above cursor**
+ 
+ Insert mode ထဲဝင်ဖို့နည်းလမ်းတွေပါ။
+ 
+---
+
+ဒီလောက်ဆိုရင် နည်းနည်းပါးပါးလောက်ဖြစ်ဖြစ် သဘောပေါက်မယ်ထင်ပါတယ်။ လေ့ကျင့်ချင်ရင် command `vimtutor` နဲ့မသိတာတစ်ခုခုရှိရင် `:help {command}` နဲ့ကြည့်လို့ရပါတယ်။ online မှာပဲစမ်းကြည့်ချင်တယ်ဆိုလည်း
+[vim adventure](https://vim-adventures.com/) မှာ စမ်းလို့ရပါတယ်။ game ပုံစံမျိုးဆိုတော့လည်း စစသုံးတဲ့သူတွေအတွက် အဆင်ပြေမှာပါ။
