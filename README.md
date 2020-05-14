@@ -69,3 +69,7 @@ Make your own ` USERNAME.github.io ` and link at Main tech-intern.github.io cont
 	- Instagram 
 	- Portrait 
 
+## Docker
+
+    docker-compose up
+    curl localhost:8080
