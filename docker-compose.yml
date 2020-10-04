@@ -1,0 +1,9 @@
+version: "3"
+services:
+  blog:
+    image: naing2victor/jekyll:tech-intern
+    ports:
+    - 8080:4000
+    working_dir: /site
+    volumes:
+    - .:/site
