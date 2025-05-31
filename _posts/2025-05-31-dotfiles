@@ -3,6 +3,7 @@ layout: post
 title: Dotfile
 date: 2025-05-31 10:00 +0630
 author: "Ko Ko Ye"
+image: dotfiles.svg
 header-style: text
 tags: [Guide, DotFile]
 ---
@@ -12,6 +13,8 @@ tags: [Guide, DotFile]
 ကွန်ပျူတာကို အသုံးပြုတဲ့အခါမှာ command line ကနေ အလုပ်လုပ်သည်ဖြစ်စေ၊ graphical interface (GUI) နဲ့ အလုပ်လုပ်သည်ဖြစ်စေ၊ ကျွန်တော်တို့ရဲ့ လုပ်ငန်းပတ်ဝန်းကျင် (environment) က ကိုယ့်စိတ်ကြိုက် ဖြစ်နေဖို့က အရေးကြီးပါတယ်။ ဒါမှသာ အလုပ်လုပ်ရတာ ပိုမို မြန်ဆန်၊ အဆင်ပြေပြီး ထိရောက်မှု ရှိမှာ ဖြစ်ပါတယ်။ ဒီလို ကိုယ့်ပတ်ဝန်းကျင်ကို စိတ်ကြိုက်ပြင်ဆင်ရာမှာ အဓိကကျတဲ့ အရာတစ်ခုကတော့ **dotfiles** တွေပဲ ဖြစ်ပါတယ်။
 
 ### Dotfiles ဆိုတာဘာလဲ။
+
+![]({{site.baseurl}}/img/dotfiles.svg)
 
 Dotfiles ဆိုတာက Unix-based (Linux, macOS) စနစ်တွေမှာ ဖိုင်အမည်ရဲ့ အရှေ့မှာ `.` (dot) လေး ခံပြီး သိမ်းထားတဲ့ configuration ဖိုင်တွေ ဖြစ်ပါတယ်။ ဥပမာအားဖြင့် `.bashrc`, `.zshrc`, `.vimrc`, `.gitconfig`, `.tmux.conf` စတာတွေ ဖြစ်ပါတယ်။ ဒီလို `.` နဲ့ စထားတဲ့အတွက် default အားဖြင့် သူတို့ကို ဖိုင် Explorer (သို့) command line က `ls` လိုမျိုး command တွေနဲ့ ကြည့်ရင် မြင်ရမှာ မဟုတ်ပါဘူး။ ဒါဟာ သူတို့ရဲ့ ရည်ရွယ်ချက်အတိုင်း system ရဲ့ အရေးကြီးတဲ့ setting တွေကို သပ်ရပ်စွာ သိမ်းထားဖို့ ဖြစ်ပါတယ်။
 
