@@ -1,14 +1,13 @@
 ---
 layout: post
 title: Hail Unicode
-date: 2025-07-17 10:00 +0630
+date: 2025-07-16 10:00 +0630
 author: "Ko Ko Ye"
 image: hail_22.jpg
 header-style: text
 tags: [Unicode, CLDR, MITSC, NLP, IDGAF]
 ---
 ﻿
-
 ## Hail Unicode
 
 > နည်းပညာသမားတဦး၏ စိတ်အချဥ်ပေါက်မှုများ ဖြစ်သဖြင့် ဂျာဂွန်များနှင့် အထေ့အငေါ့များ ပါဝင်နိုင်သည်။
@@ -288,12 +287,9 @@ Unicode အကြောင်း Zawgyi အကြောင်း ဥပမာတ
 
 ---
 
-**Part 2**
-
 [Hail CLDR](https://tech-intern.github.io/hail-cldr/)
 
 ---
 
 [PDF Download]({{site.baseurl}}/img/Hail_Unicode.pdf)
 
----
