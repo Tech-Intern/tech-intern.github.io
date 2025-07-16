@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hail Unicode
-date: 2016-07-24 10:00 +0630
+date: 2025-07-17 10:00 +0630
 author: "Ko Ko Ye"
 image: hail_22.jpg
 header-style: text
@@ -287,4 +287,13 @@ Unicode အကြောင်း Zawgyi အကြောင်း ဥပမာတ
 [FB Note](https://www.facebook.com/notes/682524079057364/)
 
 ---
+
+**Part 2**
+
+[Hail CLDR](https://tech-intern.github.io/hail-cldr/)
+
+---
+
 [PDF Download]({{site.baseurl}}/img/Hail_Unicode.pdf)
+
+---
