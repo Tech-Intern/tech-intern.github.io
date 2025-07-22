@@ -117,7 +117,6 @@ Feb 28, 2024
 ![](https://www.micwil.com/images/gallery/truly_ergonomic_truly_ergonomic_cleave_keyboard_p8_1800x1100.jpg)
 လက်နဲ့ လက်ကောက်ဝတ်တွေ သဘာဝအတိုင်း အနေအထားမှန်စေဖို့ အထူးဒီဇိုင်းထုတ်ထားတဲ့ ကီးဘုတ်တွေပါ။
 
-![](https://www.techpowerup.com/review/microsoft-ergonomic-desktop/images/keyboard-1.jpg)
 
 *   **Split Keyboards:** ကီးဘုတ်ကို နှစ်ခြမ်းခွဲထားခြင်း။
 *   **Ortholinear Keyboards:** ခလုတ်များကို မျဉ်းဖြောင့်အတိုင်း ညီညာစွာ စီတန်းထားခြင်း။
