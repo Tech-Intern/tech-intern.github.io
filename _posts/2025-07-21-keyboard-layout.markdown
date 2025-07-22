@@ -108,7 +108,7 @@ Feb 28, 2024
 
 ## **Ergonomic Layouts**
 
-![Ergonomic Keyboard](![](https://www.techpowerup.com/review/microsoft-ergonomic-desktop/images/keyboard-1.jpg))
+![Ergonomic Keyboard](https://www.techpowerup.com/review/microsoft-ergonomic-desktop/images/keyboard-1.jpg)
 
 ![](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*gaJOhvJRvqGXJl9B6YPdtA.png)
 
