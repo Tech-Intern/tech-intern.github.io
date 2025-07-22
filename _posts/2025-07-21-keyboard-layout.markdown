@@ -6,7 +6,7 @@ date: 2025-07-21 11:00 +0630
 author: "Ko Ko Ye"
 image: keyboard.jpg
 header-style: text
-tags: [keyboard, xkb, ibus, keymagic, waitzar, ekya, keyman, ukelele, msklc]
+tags: [keyboard, xkb, ibus, keymagic, waitzar, ekaya, keyman, ukelele, msklc]
 
 ---
 
