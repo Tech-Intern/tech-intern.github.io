@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Keyboard Layou
+title: Keyboard Layout
 date: 2025-07-21 11:00 +0630
 author: "Ko Ko Ye"
 image: keyboard.jpg
